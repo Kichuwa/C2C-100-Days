@@ -1,0 +1,7 @@
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\bin\Debug\Day1.exe.config
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\bin\Debug\Day1.exe
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\bin\Debug\Day1.pdb
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\obj\Debug\Day1.csproj.SuggestedBindingRedirects.cache
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\obj\Debug\Day1.exe
+C:\Users\almig\Source\Repos\Kichuwa\C2C-100-Days\Day1\obj\Debug\Day1.pdb
